@@ -1,0 +1,128 @@
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+.navbar a {
+  display: inline-block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #f1f1f1;
+  color: black;
+}
+
+.navbar a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+.row{
+  background-color:silver;
+}
+
+#holder img{
+  position: relative;
+  align-content: center;
+  height: 200px;
+  width: auto;
+  margin-top: 20px;
+}
+.col1{
+  position: relative;
+  min-height: 500px;
+  background-color:white;
+  padding: 3px;
+}
+.col2{
+  text-align: center;
+  min-height: 200px;
+  background-color:white;
+}
+
+.col3{
+  min-height: 300px;
+  text-align: center;
+  background-color:blanchedalmond;
+}
+
+.col4{
+  min-height: 300px;
+  text-align: center;
+  background-color:blanchedalmond;
+}
+.col5{
+  height: 300px;
+  background-color:blanchedalmond;
+  text-align: center;
+}
+.col6{
+  height: 300px;
+  background-color:blanchedalmond;
+  text-align: center;
+}
+.col7{
+  min-height: 400px;
+  background-color: crimson;
+  text-align: center;
+}
+.col8{
+  min-height: 400px;
+  background-color: darkseagreen;
+  text-align: center;
+}
+.col9{
+  min-height: 200px;
+  text-align: center;
+  background-color: white;
+}
+.col10{
+  min-height: 400px;
+  background-color: violet;
+  text-align: center;
+}
+.col11{
+  min-height: 200px;
+  position: relative;
+  text-align: center;
+  background-color: white;
+}
+.col12{
+  min-height: 300px;
+  position: relative;
+  text-align: center;
+  background-color: goldenrod;
+}
+.col13{
+  min-height: 150px;
+  position: relative;
+  text-align: center;
+  background-color: yellow;
+}
+.col14{
+  margin-top: 0px;
+  min-height: 400px;
+  background-color: white;
+  text-align: center;
+  
+}
+.title{
+  color: aqua;
+  display: inline-block;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.underline{
+    display: inline-block;
+    margin: 0 auto;
+    background:aqua;
+    display: block;
+    height :3px;
+    width: 50%; 
+}
